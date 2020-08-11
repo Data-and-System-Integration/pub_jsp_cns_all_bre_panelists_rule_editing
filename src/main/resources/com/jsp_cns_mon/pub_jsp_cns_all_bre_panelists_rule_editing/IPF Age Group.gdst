@@ -44,7 +44,7 @@
       <conditions>
         <condition-column52>
           <hideColumn>false</hideColumn>
-          <width>466</width>
+          <width>161</width>
           <header>panelist_survey_age &gt;=</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_survey_age</factField>
@@ -54,7 +54,7 @@
         </condition-column52>
         <condition-column52>
           <hideColumn>false</hideColumn>
-          <width>527</width>
+          <width>183</width>
           <header>panelist_survey_age &lt;=</header>
           <constraintValueType>3</constraintValueType>
           <factField>panelist_survey_age</factField>
@@ -89,7 +89,7 @@
       <childColumns>
         <org.drools.workbench.models.guided.dtable.shared.model.BRLActionVariableColumn>
           <hideColumn>false</hideColumn>
-          <width>625</width>
+          <width>251</width>
           <header>Agegroup : Panelist_panelist_attr_40</header>
           <varName>panelist_panelist_attr_40</varName>
           <fieldType>java.math.BigDecimal</fieldType>
